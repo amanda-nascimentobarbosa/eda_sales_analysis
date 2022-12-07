@@ -30,14 +30,14 @@ In this first step, data was imported and verified, with the following actions:
 
 ## Data Analysis
 
-**1 - What is the average ticket by month?**
+### 1 - What is the average ticket by month?
 
 **Results:** The average ticket amount for the year was 185.00, with the highest values in the months of May and June, at around 190.00.
 
 ![](folder/average_ticket.png)
 
 
-**2 - How were the sales throughout the year?**
+### 2 - How were the sales throughout the year?
 
 **Results:** Although the year ended with a significant increase compared to the beginning of the period, sales were unstable throughout 2019, showing periods of sales increase followed by long periods of decline.
 
@@ -48,7 +48,7 @@ We can observe an increase in sales of around 23.2% per month in the period from
 ![](folder/sales_month.png)
 
 
-**3 - Which location had the highest number of sales?**
+### 3 - Which location had the highest number of sales?
 
 **Results:** The state of California represents the largest share of sales, with about 40% of the total. San Francisco reached 24% of sales, even though it has a population that represents 4.7% of the analyzed cities, followed by Los Angeles with 16% of sales.
 
@@ -59,7 +59,7 @@ New York, which has the largest population among those analyzed, reached 13.5% o
 ![](folder/sales_city.png)
 
 
-**4 - What products are most often sold?**
+### 4 - What products are most often sold?
 
 **Results:** Almost half of all sales are concentrated in the three most expensive products: the MacBook Pro laptop (23.3%), the iPhone (13.9%), and the ThinkPad laptop (12.3%). An average of 5200 units of each product were sold.
 
@@ -68,7 +68,7 @@ In terms of units sold, the largest quantities were cables, wired headphones, an
 ![](folder/sales_product.png)
 
 
-**5 - What products are most often sold together?**
+### 5 - What products are most often sold together?
 
 **Results:** The top 5 best-selling products together are cell phones with chargers or headphones, which account for about 40% of sales.
 
@@ -82,7 +82,8 @@ In terms of units sold, the largest quantities were cables, wired headphones, an
 | Google Phone, Wired Headphones        | 414           | 5.2         |
 | Vareebadd Phone, USB-C Charging Cable | 361           | 4.6         |
 
-**6 - What time should we display adverstisement to maximize likelihood of customer's buying product?**
+
+### 6 - What time should we display adverstisement to maximize likelihood of customer's buying product?
 
 **Results:** More than 60% of sales are concentrated between 11 a.m. and 8 p.m., with the peak of sales occurring at 7 p.m., accounting for 7% of sales. 
 
