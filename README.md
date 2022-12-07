@@ -103,10 +103,10 @@ We observed that sales throughout the year had considerable fluctuations, even h
 
 ## References
 
-* Dataset and variables meaning from <a href="https://www.kaggle.com/datasets/knightbearr/sales-product-data">Kaggle</a>
+* Dataset: <a href="https://www.kaggle.com/datasets/knightbearr/sales-product-data">Kaggle</a>
 
 * Per Capita Personal Income of US cities:  <a href="https://www.census.gov/quickfacts/fact/table/portlandcitymaine,bostoncitymassachusetts/HSG010221">Census</a> and <a href="https://en.wikipedia.org/wiki/List_of_U.S._cities_by_adjusted_per_capita_personal_income">Wikipedia</a>
 
-* List of US cities by <a href="https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population">population</a>
+* List of US cities by population: <a href="https://en.wikipedia.org/wiki/List_of_United_States_cities_by_population">Wikipedia</a>
 
 * <a href="https://www.freepik.com/free-photo/young-lady-use-cellphone-order-online-shopping-product-paying-bills-with-banking-app-with-transaction-successful-stay-house-quarantine-activity-fun-activity-coronavirus-prevention_17612639.htm#query=ecommerce&position=24&from_view=search&track=sph">Image by tirachardz</a> on Freepik
