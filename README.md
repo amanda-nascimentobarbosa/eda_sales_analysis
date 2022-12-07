@@ -39,11 +39,11 @@ In this first step, data was imported and verified, with the following actions:
 
 **2 - How were the sales throughout the year?**
 
-Results: Although the year ended with a significant increase compared to the beginning of the period, sales were unstable throughout 2019, showing periods of sales increase followed by long periods of decline.
+**Results:** Although the year ended with a significant increase compared to the beginning of the period, sales were unstable throughout 2019, showing periods of sales increase followed by long periods of decline.
 
 We can observe an increase in sales of around 23.2% per month in the period from January to April 2019. The months of May and September are followed by constant declines, especially in June (-18.2%) and August (-15.2%). The month of October showed a significant growth of 78.1%, with revenues rising from 2.1M to 3.7M. November presented a new drop of 14.4%, closing the year with the highest turnover of the year at 4.6M.
 
-Recommendation: Investigate the cause of the extended sales decreases. As we only have one year's worth of information collected, we cannot yet say whether this pattern will repeat itself in the coming years.
+**Recommendation:** Investigate the cause of the extended sales decreases. As we only have one year's worth of information collected, we cannot yet say whether this pattern will repeat itself in the coming years.
 
 ![](folder/sales_month.png)
 
@@ -61,7 +61,7 @@ New York, which has the largest population among those analyzed, reached 13.5% o
 
 **4 - What products are most often sold?**
 
-Results: Almost half of all sales are concentrated in the three most expensive products: the MacBook Pro laptop (23.3%), the iPhone (13.9%), and the ThinkPad laptop (12.3%). An average of 5200 units of each product were sold.
+**Results:** Almost half of all sales are concentrated in the three most expensive products: the MacBook Pro laptop (23.3%), the iPhone (13.9%), and the ThinkPad laptop (12.3%). An average of 5200 units of each product were sold.
 
 In terms of units sold, the largest quantities were cables, wired headphones, and batteries, at around 25,000 units each. These goods sold in large quantities because they were the least expensive.
 
